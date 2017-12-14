@@ -1,8 +1,5 @@
 import com.datastax.driver.mapping.annotations.Table;
 import lombok.Data;
-import lombok.NonNull;
-
-import java.time.LocalDate;
 
 @Data
 @Table(keyspace = "lab", name = "uservisit")
