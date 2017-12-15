@@ -15,7 +15,7 @@ import static java.lang.Float.parseFloat;
 import static java.lang.Integer.parseInt;
 import static java.util.Collections.singletonList;
 
-public class Application {
+public class ConsumerApplication {
 
     public static void main(String[] args) {
         try(
